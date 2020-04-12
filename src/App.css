@@ -1,0 +1,16 @@
+:root {
+    --mainDark:#000000;
+    --mainGrey:#736F6E;
+    --mainLightGrey:#E5E4E2;
+    --mainWhite:#FFFFFF;
+    --mainBlue:#4863A0;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-toggler {
+    border:none;
+}
+
